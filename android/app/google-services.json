@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679719447941",
+    "project_id": "mariefa-8f5f6",
+    "storage_bucket": "mariefa-8f5f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679719447941:android:1cc9eeca8ba803a36868ec",
+        "android_client_info": {
+          "package_name": "com.light.maerifa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI2DpRYY5aBYKOyYZ9DlTRGakciqT4D8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
